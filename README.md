@@ -1,2 +1,2 @@
 # the_odds_api
-For using "the odds API" to analyze odds
+repository for using "the odds API" to analyze odds
